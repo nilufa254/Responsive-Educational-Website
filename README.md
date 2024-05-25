@@ -3,4 +3,4 @@ Online Courses Website Using HTML CSS &amp; JavaScript
 Figma to HTML
 
 
-Link: https://nilufa254.github.io/Responsive-Educational-Website/
+Link: https://nilufa254.github.io/responsive-educational-website/
